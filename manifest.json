@@ -1,0 +1,22 @@
+{
+  "name": "Premier League",
+  "short_name": "MY PWA2",
+  "description": "Premier League PWA",
+  "start_url": "/index.html",
+  "theme_color": "#2196f3",
+  "background_color": "#2196f3",
+  "display": "standalone",
+  "Scope": "/",
+  "gcm_sender_id": "682064884483",
+  "icons": [{
+      "src": "icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+        "src": "icon-512.jpg",
+        "sizes": "512x512",
+        "type": "image/png"
+    }],
+    "gcm_sender_id": "682064884483"
+}
